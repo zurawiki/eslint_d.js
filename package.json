@@ -22,7 +22,7 @@
     "url": "https://github.com/mantoni/eslint_d.js.git"
   },
   "dependencies": {
-    "eslint": "^1.4.2",
+    "eslint": "^7.9.0",
     "optionator": "^0.5.0",
     "resolve": "^1.1.6"
   },
